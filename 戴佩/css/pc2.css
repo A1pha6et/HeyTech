@@ -1,0 +1,56 @@
+*{margin: 0; padding: 0;}
+.fl{float: left;}
+.fr{float: right;}
+ul li{ float: left; list-style: none;}
+.clear{clear:both;}
+a{text-decoration: none;}
+body{ position: relative; background: #040001; font-family: "Helvetica Neue",Helvetica,"Microsoft YaHei",STHeiTi,sans-serif;}
+img{ display: block;}
+
+.header{width: 100%; height: 47px; border-bottom:1px solid #d0d0d0; background: url(../images/header.jpg);}
+.header-c{width: 1200px; height: 100%; margin: 0 auto;}
+.header-logo{ width: 171px; height: 47px;}
+.header-list a{ display: inline-block; height: 20px; padding: 0 10px 0 12px; margin-top: 15px; float: left; font-size: 12px; background: url(../images/line.jpg) no-repeat 0 3px; color: #a5a5a5;}
+.header-list a.first{ background: none;}
+.header-list a.last{ padding-right: 0; color:#67a0f7;}
+
+.section1{width: 100%; height: 380px;}
+.section2{width: 1200px; height: auto; margin: 0 auto;}
+
+.hotel{width: 386px; height: auto; margin-top: 20px; margin-right: 21px; background: #fff; border-radius: 8px; position: relative;}
+.hotel a.hotel-img{display:block;width:386px;height:296px;}
+.hotel img{width:100%;height:100%; border-top-left-radius: 8px; border-top-right-radius: 8px;}
+.hotel-content{height:290px; position: relative; padding-top: 45px; padding-left: 22px; padding-right: 18px;}
+.hotel-content .hotel-num{ position: absolute; width: 60px; padding-top: 10px; height: 50px; background: #bfa38b; border-radius: 100%; position: absolute; top: -30px; left: 50%; margin-left: -30px; text-align: center; color: #fff;}
+.hotel-content .hotel-num i{ font-size: 22px;}
+.hotel-content .hotel-title{ font-size: 24px; text-align: center;font-family:"微软雅黑"}
+.hotel-content .hotel-detail{ padding-top: 12px; line-height: 32px; color: #666666; font-size: 14px;}
+.hotel-content .hotel-address { padding-top: 5px; line-height: 32px; color: #adacac; font-size: 12px;}
+.hotel-content .hotel-address p{ position: relative; padding-left: 22px;}
+.hotel-content .hotel-address p a{ color: #adacac;}
+.hotel-content .hotel-address p i{ display: block; width: 13px; height: 18px; position: absolute; top: 7px; left: 0;}
+.hotel-content .hotel-address p i.address-con{background: url(../images/icon1.jpg);}
+.hotel-content .hotel-address p i.around{ background: url(../images/icon2.jpg);}
+
+.hotel-ck{width: 346px; position: absolute; bottom: 0;}
+.hotel-ck .hotel-map{ font-size: 12px;}
+.hotel-ck .hotel-map a{ color: #927160; text-decoration: underline;}
+.hotel-content .hotel-price{ height: 40px; font-size: 12px; color: #c4c4c4;}
+.hotel-content .hotel-price span.price-num{ display: inline-block; padding-right: 26px; color: #898989; font-size: 14px;}
+.hotel-content .hotel-price span.hotel-btn{ padding: 7px 13px;  border-radius: 4px; font-size: 12px; color: #fff;}
+.message-box{width:624px;position:absolute;top:42px;left:50%;}
+.message-con{padding:10px;background:#329cc7}
+.message-title h1{color:#00659a;font-size:14px;padding-left:18px}
+.message-close a{float:right;background:url(../images/login_delete.png) no-repeat;width:23px;height:23px;margin:7px 18px 0 0;display:inline;cursor:pointer}
+.message-close a:hover{background:url(../images/delete_hover.png) no-repeat}
+
+
+
+.footer{ width: 100%; height: 60px; line-height: 60px; margin-top: 20px; border-top:0px solid #eee; background: #040001; text-align: center; font-size: 22px; color: #959595;}
+
+.layer{ position: absolute; left: 0; top: 0; z-index: 8888; width: 100%; height: 100%; background: url(../images/back.png);}
+.hotel-map-wrapper{ width: 1195px; height:653px; background: #fff; border:5px solid #2b2b2b; box-shadow: 0 2px 3px #000; border-radius: 5px; position: absolute; top: 200px; left: 50%; margin-left: -600px;}
+.hotel-map-close{ width: 64px; height: 25px; border:1px solid #c4c7cc; position: absolute; top: 8px; right: 8px; cursor: pointer;}
+.close-fork{width: 32px; height: 100%; line-height: 25px; background: #2c81ff; text-align: center; color: #fff; font-size: 32px;}
+.close-font{ width: 32px; height: 100%; line-height: 25px; font-size: 12px; color: #959595; text-align: center;}
+

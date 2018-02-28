@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=yes" />
+    <title>楼市告别“金九银十”</title>
+    <link rel="stylesheet" type="text/css" href="http://s0.ifengimg.com/2017/10/17/style_08ced50c.css">
+    <link rel="stylesheet" type="text/css" href="http://s0.ifengimg.com/2017/09/21/jquery.mCustomScrollbar_a4cecbc3.css">
+    <script type="text/javascript" src="http://s0.ifengimg.com/static/js/jquery-1.7.2.min_c4de8813.js"></script>
+    
+        <!-- .STYLE1 {
+            color: #000000
+        }
+
+        .STYLE2 {
+            color: #FF3300;
+            font-weight: bold;
+        }
+
+        .STYLE8 {
+            color: #FF0000;
+            font-weight: bold;
+        }
+
+        -->
+    </style>
+<script>var special_skey="c1dc09"; GBL=[]; GBL["token_message"] = "gCqNv5";</script></head>
+
+<body>
+    
+    <!--广告  -->
+    <div class="banner" style="background-image: url('http://s0.ifengimg.com/2017/11/14/banner_6f69857f_7162a1ca.jpg')">
+        <p>相对往年的楼市旺季“金九银十”，今年9、10两月全国主要城市新房成交量下降明显，一线城市更是创下10年新低。在限购、限贷、限价、限售等组合调控政策的影响下，楼市节奏趋向。近日，湖南省住建厅公布2017年1-9月全省房地产市场形势通报。10月26日，湖南省住房和城乡建设厅、省统计局、国家统计局湖南调查总队等十余单位参加了2017年1-9月全省房地产市场联席会议。会议就2017年1-9月全省房地产市场运行情况及发展趋势进行了分析和研究。</p>
+    </div>
+    <!-- p1 新闻 焦点图 -->
+    <div id="p1" class="p1 w1205 clearfix" style="margin-top:-170px;">
+        <div class="zhanwei"></div>
+        <div class="news">
+            <ul>
+                <li>
+                    <h4>
+                        <a href="https://cs.news.anjuke.com/market/378905.html" target="_blank">湖南前9月商品房销售增速大幅回落</a>
+                    </h4>
+                    <p class="info">省住建厅与省统计局、国家统计局湖南调查总队等10余家单位日前召开全省房地产市场形势联席会议透露，1至9月全省商品房销售增速大幅回落，两年多来首次出现单月同比负增长；9月，长沙、岳阳、常德新建商品住宅价格同比、环比涨幅均出现回落。</li>
+                <li>
+                    <h3>
+                        <a href="https://cs.news.anjuke.com/market/370199.html" target="_blank">长沙1-9月个人住房消费贷款增984.1亿</a>
+                    </h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="https://cs.news.anjuke.com/market/369090.html" target="_blank">国家统计局：9月长沙房价同比涨幅全面回落</a>
+                    </h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="https://cs.news.anjuke.com/market/371171.html" target="_blank">央行：9月房地产贷款增速继续回落 比上季末低1.4%</a>
+                    </h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="https://cs.news.anjuke.com/market/379497.html" target="_blank">9月湖南新房均价4751元/㎡</a>
+                    </h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="https://cs.news.anjuke.com/market/371456.html" target="_blank">长沙前9月腾地逾4万亩 28万被征地农民纳入社保</a>
+                    </h3>
+                </li>
+            </ul>
+        </div>
+        <div class="slide">
+            <div class="slide-prev"></div>
+            <div class="slide-next"></div>
+            <ul>
+                <li>
+                    <a href="http://nj.house.ifeng.com/column/news/2017jjls" target="_blank">
+                        <img src="http://pic1.ajkimg.com/display/xinfang/2f71755720f794cfa697418aba9ba893/827x489n.jpg">
+                    </a>
+                    <div class="outerd">
+                        <div class="img-inner">
+                            <h3>
+                                9月长沙城市管理工作考核综合排名：开福岳麓雨花分列前三</a>
+                            </h3>
+                            <p class="info-detail">日前，市城管委办公室公布了2017年9月长沙城市管理工作考核综合排名情况。按照区域综合排名，开福区获得第一，岳麓区、雨花区、天心区、芙蓉区、高新区分别排名第二至第六位。</p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <ol></ol>
+        </div>
+    </div>
+    <!--p2 政策解读 -->
+    <div id="p2" class="w1205 zcjd">
+        <!-- <span class="p2-title titles"></span> -->
+        <div class="zhanwei"></div>
+        <div class="zcjd-con clearfix">
+            <div class="tc_tab">
+                <ul>
+                    <li class="current towers0">限购</li>
+                    <li class="towers1">租房</li>
+                    <li class="towers2">二手房</li>
+                    <li class="towers3">贷款</li>
+                </ul>
+            </div>
+            <!-- 第一个选项卡 内容 -->
+            <div class="tc_con" style="display:block">
+                <ul>
+                    <li>
+                        <h4>
+                            <span>贷款未还清二套房商贷首付45%</span>
+                        </h4>
+                        <p>购买首套商品住房首付比例不低于30%;拥有一套住房且相应贷款已结清的户籍家庭购买第二套商品住房，首付比例不低于35%;拥有一套住房且相应贷款未结清的户籍家庭购买第二套商品住房，首付比例不低于45%;暂停发放第三套及以上住房的商业贷款。</p>
+                    </li>
+                    <li>
+                        <h4>
+                            <span>非长沙市户籍家庭限购1套</span>
+                        </h4>
+                        <p>湖南省外户籍家庭凭在长沙市连续缴纳12个月以上个人所得税或社会保险证明限购1套新建商品住房;属于省、市、区引进人才和公务工作调动的湖南省外户籍家庭凭有关部门证明限购1套新建商品住房;长沙市外湖南省内户籍家庭限购1套新建商品住房。</p>
+                    </li>
+                    <li>
+                        <h4>
+                            <span>提高公积金贷款首付比例</span>
+                        </h4>
+                        <p>购买首套住房首付比例不低于20%;拥有一套住房且相应贷款已结清的户籍家庭购买家庭第二套住房首付比例不低于35%;暂停发放家庭第三套及以上住房公积金贷款。</p>           
+                    </li>
+
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <!-- p4 金九银十事件 -->
+    <div id="p4" class="w1205 p4" style="height:907px;">
+        <p class="p4-des">
+            在房地产市场上，素有“金九银十”的说法。事实上，近些年长沙房地产市场也的确在九、十月份出现开发商“推盘井喷”、成交量和成交金额上涨的情况。只不过，今年以来，强力的政策调控让整体市场降温。在这样的市场背景下，政府、开发商等会发生什么重大事件？
+        </p>
+        <ul class="clearfix">
+            <li class="p4-one">
+                <h3>国务院批准宁乡撤县设市</h3>
+                <p>4月12日，经国务院批准，同意撤销宁乡县，设立县级宁乡市，以原宁乡县的行政区域为宁乡市的行政区域。宁乡市人民政府仍驻玉潭街道金洲大道5段398号。宁乡市由湖南省直辖，长沙市代管。
+                </p>
+            </li>
+            <li class="p4-two">
+                <h3>长沙推出超万套定向限价商品住房 </h3>
+                <p>长沙市日前正式推出定向限价商品住房，第一批已（拟）开工20个项目，建设11682套，预计其中2702套住房年内即可上市供应，第二批建设计划也在抓紧制定中。</p>
+            </li>
+            <li class="p4-three">
+                <h3>长沙首批“限房价竞价地”半小时即触发“熔断”</h3>
+                <p> 10月10日上午10点，长沙首批“限房价竞价地”40号与41号正式进入竞价期。这两宗土地都采取了“熔断+摇号”的新拍卖方式，因此分别被设置了13.58亿和0.6016亿的最高土地价。
+              </p>
+            </li>
+            <li class="p4-four">
+                <h3>长沙不动产登记中心试行“5+1”工作制</h3>
+                <p> 长沙将从11月4日起，在长沙市不动产登记中心试行“5+1”工作制，即市民在周六也能去不动产登记中心办理相关证照了。
+                </p>
+            </li>
+        </ul>
+        <div class="fixd fix-one"></div>
+        <div class="fixd fix-two"></div>
+        <div class="fixd fix-three"></div>
+    </div>
+    <!-- p5老炮房地产走势 -->
+    <div id="p5''" class="w1205 p5 clearfix" style="height:576px;">
+        <div class="p5-container">
+            <ul class="p5-top">
+            </ul>
+            <div class="p5-detail STYLE1">
+                <ul>
+                    <li class="clearfix">
+                        <h4 wapclass="article-title">
+                            <font color="#024379">邹杨-创蓝运营副总裁、投房网顾问合伙人、斜杠人生电台主播</font>
+                        </h4>
+                        <p wapclass="article-content" class="headline-detail" wapurl="">
+                            <font color="#FF6633">
+                                <b></b>
+                            </font>小编曾任职新鸿基、赛普咨询、茂业集团，目前为互联网创业者&天使投资人，兼任投房网顾问合伙人，为超过300位新深圳人辅导过房地产投资，总货值超过20亿元，地产研习社公众号是地产自媒体联盟成员。
+                            <span class="STYLE2">
+                            </span>
+                            <br>
+                            <br>
+                        </p>
+                        <img src="http://s0.ifengimg.com/2017/09/25/4_75cbce66.jpg" alt=""> </li>
+                    <li class="clearfix">
+                        <h4 wapclass="article-title">
+                            <font color="#024379">夏见-自媒体《夏见》创始人，长房梅溪香山营销总监</font>
+                        </h4>
+                        <p wapclass="article-content" class="headline-detail" wapurl="">
+                            <font color="#FF6633">
+                                <b></b>
+                            </font>十余年房地产从业经验，非正经写法，正经来写房地产业行内事。
+                            <span
+                                class="STYLE2">
+                                </span>
+                                <br>
+                                <br>
+                        </p>
+                        <img src="http://s0.ifengimg.com/2017/09/25/5_a01d8f80.jpg" alt=""> </li>
+                    <li class="clearfix">
+                        <h4 wapclass="article-title">
+                            <font color="#024379">何矿-房地产专家律师，房地产专业委员会研究员</font>
+                        </h4>
+                        <p wapclass="article-content" class="headline-detail" wapurl="">
+                            <font color="#FF6633">
+                                <b></b>
+                            </font>凭借深厚扎实的法学理论知识和丰富的实践经验、技巧，何矿律师执业领域涉及房地产、公司、金融、合同等民事诉讼及非诉等多方面，尤为对房地产法律纠纷有扎实的理论功底及诉讼实践经验。
+   先后为长沙市住房和城乡建设委员会、湖南路桥建设集团有限公司、长沙金茂置业有限公司、湖南航天有限责任公司、湖南省电力公司柘溪水力发电厂、中国民生银行长沙分行、湖南华菱置业有限公司、长沙佳海房地产开发有限公司、长沙鹏基地产有限公司、湖南金正物流有限公司等企事业单位提供过法律服务。
+                            <span class="STYLE2">
+                            </span>
+
+                            <br>
+                            <br>
+                        </p>
+                        <img src="http://s0.ifengimg.com/2017/10/09/1_55f3de01.jpg" alt=""> </li>
+                </ul>
+                <ol></ol>
+            </div>
+        </div>
+
+    </div>
+    <!-- p7 置业季 -->
+    <div id="p7" class="w1205 czgy p7" style="">
+        <p class="p7-des">
+            2017年1-10月中国房地产企业销售TOP100排行榜已发布，全国排名前一百房企销售总额已经超过5万亿，而前十企业销售总额占比进一步提升到了45.6%，分化趋势仍在进一步强化。纵观百强房企榜单发现，长沙这片热土备受百强房企青睐，2017中国房地产企业前100强里，已有42家抢滩长沙。</p>
+        <div class="p7-p1">
+            <h3>入市项目</h3>
+            <div class="p7-detail1 clearfix">
+                <ul class="tc_tab tab-1">
+                </ul>
+                <!-- 九月 -->
+                <div class="tc_con" style="display: block">
+                    <ul class="clearfix september-detail">
+                        <li>
+                            <a href="https://cs.fang.anjuke.com/loupan/416113.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/e5f6dcb51459b2926da2a42ad715e6e3/717x470n.jpg" alt="">
+                            </a>
+                            <span class="p7-desl">致地龙熙台</span>
+                            <span class="p7-desr">10000元/㎡</span>
+                            <span class="p7-tel"> 400-060-3628</span>
+
+                        </li>
+                        <li>
+                            <a href="https://cs.fang.anjuke.com/loupan/238159.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/c2a29635fbdb8d218bcc61776ee0ec31/789x512n.jpg" alt="">
+                            </a>
+                            <span class="p7-desl">恒大御景半岛</span>
+                            <span class="p7-desr">14000元/㎡</span>
+                            <span class="p7-tel"> 400-033-1259</span>
+                        </li>
+                        <li>
+                            <a href="https://cs.fang.anjuke.com/loupan/429593.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/a249ad36e418ca4b69dab7d307fdf91e/1200x945n.jpg" alt="">
+                            </a>
+                            <span class="p7-desl">鑫苑·芙蓉鑫家</span>
+                            <span class="p7-desr">9500元/m²</span>
+                            <span class="p7-tel"> 400-026-8023</span>
+                        </li>
+                        <li>
+                            <a href="https://cs.fang.anjuke.com/loupan/250239.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/99f6c3ce325930274228d1bb00d39f3f/1000x700n.jpg" alt="">
+                            </a>
+                            <span class="p7-desl">绿地海外滩</span>
+                            <span class="p7-desr">7480元/㎡</span>
+                            <span class="p7-tel"> 400-036-1382</span>
+                        </li>
+                        <li>
+                            <a href="https://cs.fang.anjuke.com/loupan/430932.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/8533b44ce95a11c42cf943118a746859/366x522n.jpg" alt="">
+                            </a>
+                            <span class="p7-desl">新力•钰珑湾</span>
+                            <span class="p7-desr">价格待定</span>
+                            <span class="p7-tel">400-061-1259</span>
+                        </li>
+                        <li>
+                            <a href="https://cs.fang.anjuke.com/loupan/298144.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/10db1582e0e0a96f0f9cc92399d45b06/800x471n.jpg" alt="">
+                            </a>
+                            <span class="p7-desl">恒大国际广场</span>
+                            <span class="p7-desr">13000元/㎡</span>
+                            <span class="p7-tel"> 400-056-2950</span>                            
+                        </li>
+                    </ul>
+            </div>
+        </div>
+        <div class="p7-p2">
+            <h3>热点项目</h3>
+            <div class="outer">
+                <ul>
+                    <li>
+                        <div class="p72-inner">
+                            <a href="https://cs.fang.anjuke.com/loupan/245148.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/dceff8da1ce42eb4a6600bfaa2dae959/785x489n.jpg" alt="">
+                            </a>
+                            <div>
+                                <span class="p7-desl">碧桂园南城首府</span>
+                                <span class="p7-desr">价格待定</span>
+                                <span class="p7-tel">4006032266转17982</span>
+                            </div>
+                        </div>
+                        <div class="p72-inner">
+                            <a href="https://cs.fang.anjuke.com/loupan/238349.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/3bef61e96e8a04bc4d8df1263ac6c961/635x369n.jpg" alt="">
+                            </a>
+                            <div>
+                                <span class="p7-desl">富基世纪公园</span>
+                                <span class="p7-desr">6500元/㎡</span>
+                                <span class="p7-tel">4006032266转10720</span>
+                            </div>
+                        </div>
+                        <div class="p72-inner">
+                            <a href="https://cs.fang.anjuke.com/loupan/412449.html">
+                                <img src="http://pic1.ajkimg.com/display/xinfang/70328c27c6a201772b0a20f95f3deaf5/812x562n.jpg" alt="">
+                            </a>
+                            <div>
+                                <span class="p7-desl">合能枫丹丽舍</span>
+                                <span class="p7-desr">价格待定</span>
+                                <span class="p7-tel">4006032266转29803</span>
+                            </div>                   
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <script src="http://s0.ifengimg.com/2017/08/08/jquery.mCustomScrollbar.concat.min_27297a9d.js"></script>
+    <script src="http://s0.ifengimg.com/2017/09/11/focusslide_17384d49_c466e3ad.js"></script>
+    <script>
+        $(window).scroll(function () {
+            var scrollHeight = $(window).scrollTop();
+            if (scrollHeight > 900) {
+                $('.nav-fixd').fadeIn();
+            } else {
+                $('.nav-fixd').fadeOut();
+            }
+        });
+
+
+        (function ($) {
+            $(function () {
+                jQuery(function () {
+                    var slide = new focusSlide(jQuery(".slide"));
+                    slide.preButton = jQuery(".slide-prev");
+                    slide.nextButton = jQuery(".slide-next");
+                    slide.ispreNextShow = true;
+                    slide.init();
+                });
+                jQuery(function () {
+                    var slide = new focusSlide(jQuery(".p5-detail"));
+                    slide.init();
+                });
+                // $('.mCSB_scrollTools').eq(0).css('display','block');
+                var timer = setTimeout(function () {
+                    $(".zhenai-con .tc_con").eq(0).mCustomScrollbar({
+                        scrollInertia: 150,
+                        scrollButtons: {
+                            enable: true
+                        }
+                    });
+                    $(".zhenai-con .tc_con").eq(1).mCustomScrollbar({
+                        scrollInertia: 150
+                    }).hide();
+                    $(".zhenai-con .tc_con").eq(2).mCustomScrollbar({
+                        scrollInertia: 150
+                    }).hide();
+                    $(".zhenai-con .tc_con").eq(3).mCustomScrollbar({
+                        scrollInertia: 150
+                    }).hide();
+                }, 1500);
+                timer = null;
+                tabControl("click");
+                //置业选择分页
+		
+		var octoberd =[
+		[{
+			'img':'http://s0.ifengimg.com/2017/10/20/1_dd282605.png',
+			'title':'北京城建·海梓府',
+			'price':'6.3 万元/m²',
+			'tel':'4008185005-58461 '
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/2_56de1b68.png',
+			'title':'兴创荣墅',
+			'price':'1200 万元/套',
+			'tel':'4008185005转87751'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/3_dd97f35f.png',
+			'title':'棠颂别墅璟庐',
+			'price':'1900 万元/套',
+			'tel':'4008185005转66247 '
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/4_f36a3ed4.png',
+			'title':'中铁华侨城·和园',
+			'price':'6.7 万元/m²',
+			'tel':'4008185005转91949 '
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/5_cb0fd68d.png',
+			'title':'领秀慧谷',
+			'price':'价格待定',
+			'tel':'4008185005转10050'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/6_d919cf22.png',
+			'title':'翡翠公园',
+			'price':'6.1 万元/m²起',
+			'tel':'4008185005转90753'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/7_7ca11b40.png',
+			'title':'国瑞熙墅',
+			'price':'4.6836 万元/m²',
+			'tel':'4008185005转51117'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/8_750187ab.png',
+			'title':'通州万国城MOMA',
+			'price':'价格待定',
+			'tel':'4008185005转80628 '
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/9_6ab0bd9d.png',
+			'title':'融创千章墅',
+			'price':'1100 万元/套',
+			'tel':'4008185005转10611'
+		 },
+		],
+		[{
+			'img':'http://s0.ifengimg.com/2017/10/20/10_b59ae652.png',
+			'title':'首开香溪郡',
+			'price':'价格待定',
+			'tel':'4008185005转29451'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/11_247666a2.png',
+			'title':'泰禾·金尊府',
+			'price':'价格待定',
+			'tel':'4008185005转68223 '
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/12_d93eb099.png',
+			'title':'和光尘樾',
+			'price':'10 万元/m²',
+			'tel':'4008185005转98212'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/13_87fba7de.png',
+			'title':'中粮·京西祥云',
+			'price':'价格待定',
+			'tel':'4008185005转42591'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/14_9f03f914.png',
+			'title':'旭辉城',
+			'price':'3.8994 万元/m²',
+			'tel':'4008185005转88781'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/15_30ce29c0.png',
+			'title':'京投发展·璟悦府',
+			'price':'价格待定',
+			'tel':'4008185005转57014'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/16_3ee0e5e4.png',
+			'title':'首城汇景墅',
+			'price':'2.5 万元/m²',
+			'tel':'4008185005转85130'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/17_b6946abd.png',
+			'title':'八达岭·阿尔卡迪亚',
+			'price':'价格待定',
+			'tel':'4008185005转60961'
+		 },
+		 {
+			'img':'http://s0.ifengimg.com/2017/10/20/18_43a3ac6b.png',
+			'title':'万科·弗农小镇',
+			'price':'价格待定',
+			'tel':'4008185005转93000'
+		 },
+		]];
+		
+		$('#october-page span').click(function(){
+			$('.occtober-detail').html(' ');
+			var indexd = $(this).index();
+			
+			$(this).addClass('spancurrent').siblings().removeClass('spancurrent');
+			$.each(octoberd[indexd],function(i,v){
+					var html ='';
+					html=html +'<li><a href="'+v.href+'"><img src="'+v.img+'"></a><span class="p7-desl">'+v.title+'</span><span class="p7-desr">'+v.price+'</span><span class="p7-tel">'+v.tel+'</span></li>';
+					$('.occtober-detail').append(html);
+			});
+		});	
+            });
+        })(jQuery);
+
+        function tabControl(bindEvent, tabClass, ConClass, fn) {
+            if (!tabClass) {
+                tabClass = ".tc_tab";
+            }
+            if (!ConClass) {
+                ConClass = ".tc_con";
+            }
+            jQuery(document).on(bindEvent, "li", function (e) {
+                // if( e.currentTarget.tagName != "LI" ) return;
+                var currentIdx = jQuery(e.currentTarget).index();
+                var target_con = jQuery(e.currentTarget).parents(tabClass).siblings(ConClass).eq(currentIdx);
+                if (jQuery(e.currentTarget).parents(tabClass).length > 0) {
+                    if (target_con.length > 0) {
+                        jQuery(e.currentTarget).addClass("current").siblings().removeClass("current");
+                        jQuery(e.currentTarget).parents(tabClass).siblings(ConClass).hide();
+                        var target_con_img = target_con.find("img");
+                        if (target_con_img.length > 0) {
+                            target_con_img.each(function (idx, ele) {
+                                if (jQuery(ele).attr("src-original") && jQuery(ele).attr("src-original")
+                                    .length > 0) {
+                                    var img_original = jQuery(ele).attr("src-original");
+                                    if (jQuery(ele).attr("src") != img_original) jQuery(ele).attr("src",
+                                        img_original);
+                                }
+                            });
+                        }
+                        target_con.show();
+                        fn && fn();
+                    }
+                }
+            });
+        }
+        //横向滚动
+        function Scroll(element) {
+            this.element = element;
+            this.scrollFlag = true;
+            this.scrollStep = 0;
+            this.childrenElement = element.children().children();
+            this.element_width = null;
+            this.element_clone = null;
+            this.interval = null;
+        }
+        Scroll.prototype.init = function () {
+            var _this = this;
+            if (this.childrenElement.length > 0) {
+                this.element_width = this.childrenElement.length * (parseInt(this.childrenElement.first().width()) +
+                    parseInt(this.childrenElement.css("marginLeft")));
+                this.element_clone = this.element.children().first().clone();
+                this.element.css("width", 2 * this.element_width + 2 + "px");
+                this.element.append(this.element_clone);
+                this.interval = setInterval(function () {
+                    if (_this.scrollFlag) {
+                        _this.scrollStep++;
+                        if (_this.scrollStep >= _this.element_width) {
+                            _this.element.children().first().appendTo(_this.element);
+                            _this.scrollStep = 0;
+                        }
+
+                        _this.element.css("marginLeft", "-" + _this.scrollStep + "px");
+                    }
+                }, 18);
+                this.element.on("mouseover", function () {
+                    _this.scrollFlag = false;
+                });
+                this.element.on("mouseout", function () {
+                    _this.scrollFlag = true;
+                });
+            }
+        };
+        (function () {
+            var autoScroll = new Scroll($('.p7-p2 div ul'));
+            autoScroll.init();
+        })()
+    </script>
+    <!-- 百度统计 -->
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?2618c9646a4a7be2e5f93653be3d5429";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    
+    
+    <script>
+        var sta_collection_time = new Date().getTime();
+    </script>
+    <script id="sta_collection_new">
+        window.analytics(encodeURIComponent(window.location.href));
+        window.aptracker.collection();
+        window.remain();
+    </script>
+    <!-- 房产统计 -->
+    <script>
+        (function () {
+            var hfa = document.createElement("script");
+            hfa.type = "text/javascript";
+            hfa.async = true;
+            hfa.src = "http://s0.ifengimg.com/static/js/hfa_569f8356.js";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hfa, s);
+        })();
+    </script>
+</body>
+
+</html>

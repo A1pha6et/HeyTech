@@ -1,0 +1,60 @@
+body{margin:0 auto;padding:0;border:0; font-family:"微软雅黑"; font-size:16px; background:url(../images/bg.jpg) repeat;}
+div,form,img,ul,ol,li,dt,dd,p{margin:0;padding:0;border:0; list-style:none;}
+h1{font-size:22px;color:#000;font-weight:bold;}
+h1,h2,h3,h4,h5,h6{margin:0;padding:0;}
+a:link{text-decoration:none; color:#000;}
+a:visited{text-decoration:none; color:#000;}
+a:hover{text-decoration:none; color:#000;}
+.part1_box>div{border:10px solid transparent;border-radius: 50%; width:140px; height:140px;}
+.part1_box>div:hover{border: 10px solid #549fb9;}
+
+.banner{ width:100%; height:735px; background:url(../0227img/topbanner.jpg) no-repeat center top;}
+.baner{ width:1000px; height:170px; overflow:hidden; margin:0 auto; text-align:center}
+.baner_box h1{ font-size:34px; color:#2a3c41; padding-left:90px; padding-top:676px;}
+.baner_box p{ font-size:14px; color:#444; padding-left:90px; line-height:25px; margin-top:7px;text-indent:28px;}
+.baner_box p a{ color:#791410;}
+/*焦点图*/
+.left1{ width:400px; float:left; border:black solid 2px;}
+.slider{ width:400px; height:355px; float:left; margin-left:27px; position:relative; border:3px black solid}
+.right{ width:285px; float:right;}
+.left1 li{ margin-bottom:16px;}
+.line{ width:100%; height:16px; border-top:#DEDDDB 1px dashed;}
+.bg{ background-image:url(../images/di.jpg); margin:0 auto; overflow:hidden;margin-top:-25px}
+
+.pad{ position:absolute; bottom:11px; right:12px;}
+.pad li{ width:12px; height:12px; background:#DED9DD; float:left; margin-left:5px; cursor:pointer; display:block;}
+.pad li.on{background:#FFEDB8;}
+.news_more{text-align:right;margin-top:-10px;}
+.news_more a{color:#b28f39;font-size:14px;}
+
+.example1{width:285px;height:173px;display:inline-block; margin-bottom:5px;}
+.intro1{background:url(http://pic1.ajkimg.com/material/get/620bcb43e46d0aae46a07d3ad262393e.png) repeat;}
+.intro1 b{color:#fff; padding:30px 20px 5px; font-size:22px; float:left;}
+.intro1 p{color:#fff; line-height:21px; font-size:14px; float:left; padding:0 20px;}
+/*不妨游衍莫忘归*/
+
+
+.jianjie{ padding:30px 50px 0; height:150px; display:none;}
+.jianjie span{ font-size:26px; font-weight:bold; color:#202c2c; font-family:"KaiTi";}
+.jianjie p{ font-size:14px;color:#202c2c; margin-top:8px; line-height:22px; text-indent:28px;}
+.part1{ width:100%;margin:0 auto; no-repeat center top}
+.mar10000{ margin:0 auto ;width:1000px;}
+
+.bgbgbg{ background-image:url(../images/ca.png); width:100%; margin:0 auto; overflow:hidden;}
+
+.saomzz{float:left; margin:0 auto; margin-left:20px; margin-top:20px;}
+
+.part1_box{ margin:0 auto; width:100%;}
+
+.part1 box1{ margin:0 auto; width:100%; }
+
+.saom{ width:200px; height:200px;no-repeat;margin-top:30px; float:left; margin-left:28px; }
+
+
+
+
+/*小窗分与读书灯*/
+
+
+
+
