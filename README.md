@@ -4,16 +4,12 @@
 #### [点击此处即可预览](https://a1pha6et.github.io/task1/DPei/)
 ![](https://a1pha6et.github.io/task1/Upload/DP.png)
 
-# EPengYu：
+## EPengYu：
 ### [点击此处即可预览](https://a1pha6et.github.io/task1/EPengYu/)
 ![](https://a1pha6et.github.io/task1/Upload/EPY.png)
 
-# FLiNan
-### [点击此处即可预览](https://a1pha6et.github.io/task1/FLiNan/)
-
 ## FLiNan
-#### [点击此处即可预览](https://a1pha6et.github.io/task1/FLiNan/)
->>>>>>> 782e9d0fde1f24d326eb9d0985d0b587e57dbe5e
+### [点击此处即可预览](https://a1pha6et.github.io/task1/FLiNan/)
 
 ## LQiong：
 #### [点击此处即可预览](https://a1pha6et.github.io/task1/LQiong/)
@@ -23,7 +19,7 @@
 #### [点击此处即可预览](https://a1pha6et.github.io/task1/PHengYu/)
 ![](https://a1pha6et.github.io/task1/Upload/PHY.png)
 
-# WKaiLing：
+## WKaiLing：
 ### [点击此处即可预览](https://a1pha6et.github.io/task1/WKaiLing/)
 
 ## WuKaiLing：
